@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(189, 189, 189);
+    margin: 0;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+
+}
+header h1 {
+    margin: 0;
+    text-align: center;
+}
+div.post {
+    background-color: white;
+    margin-top: 60px;
+   
+}
+div.post img{
+    width: 100%;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+    
+}
+
+div.container {
+    width: 600px;
+    margin: auto;
+}
+span {
+    float: right;
+    margin: 0;
+    color: rgb(170, 170, 170);
+}
